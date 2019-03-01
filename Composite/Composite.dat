@@ -1,0 +1,19 @@
+﻿AddSet Home
+AddPhoto Dinner.jpg
+AddSet Pets Going down another level
+AddPhoto Dog.jpg
+AddPhoto Cat.jpg
+Find Album Ensures Garden is at same level as Home
+AddSet Garden
+AddPhoto Spring.jpg
+AddPhoto Summer.jpg
+AddPhoto Flowers.jpg
+AddPhoto Trees.jpg
+Display Returns to start of Album
+Remove Flowers.jpg Will remain at Garden
+AddPhoto BetterFlowers.jpg To end of Garden
+Display
+Find Home
+Remove Pets
+Display
+Quit

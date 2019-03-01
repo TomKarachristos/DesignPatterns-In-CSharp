@@ -1,0 +1,10 @@
+﻿AddSet manager
+AddEmployee Maria
+AddSet leads_engineers
+AddEmployee Thanos
+AddEmployee Antreas
+AddSet engineers
+AddEmployee Thomas
+AddEmployee Michalis
+Display
+Quit
